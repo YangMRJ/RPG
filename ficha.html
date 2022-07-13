@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+    />
+</head>
+<body>
+    <header>
+        <nav class="main-nav">
+          <input type="checkbox" id="check" />
+          <label for="check" class="menu-btn">
+            <i class="fas fa-bars"></i>
+          </label>
+          <a href="index.html" class="logo">MEC</a>
+          <ul class="navlinks">
+            <li><a href="ficha.html">Ficha</a></li>
+            <li><a href="#">Guia</a></li>
+            <li><a href="#">História</a></li>
+            <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" class="contact">RickRoll</a></li>
+          </ul>
+        </nav>
+    </header>
+    
+    <form>
+        <img src="img/ficha1.png" class="ficha">
+        <div> 
+            <input type="file" id="image-input" accept="image/jpeg, image/png, image/jpg">
+            <div id="display-image"></div>
+            <input class="nome1"  type="text"/> 
+            <input class="nome2"  type="text"/> 
+            <input class="nome3"  type="text"/> 
+            <input class="nome4"  type="text"/> 
+            <input class="nome5"  type="text"/> 
+        </div>
+    </form>
+
+
+
+
+
+
+
+
+
+
+<script>
+    const image_input = document.querySelector("#image-input");
+image_input.addEventListener("change", function() {
+  const reader = new FileReader();
+  reader.addEventListener("load", () => {
+    const uploaded_image = reader.result;
+    document.querySelector("#display-image").style.backgroundImage = `url(${uploaded_image})`;
+  });
+  reader.readAsDataURL(this.files[0]);
+});
+</script>
+    
+</body>
+</html>
