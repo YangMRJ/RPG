@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vampiro (Strahd)",
+    "type": "Morto-Vivo",
+    "rarity": "CR 15",
+    "source": "Curse of Strahd p.239",
+    "description": "Forma de combate de Strahd. CA 16, 144 PV. Ataques: Mordida +9 (2d6+4 perfurante + 3d6 necrótico) e Garras +9 (2d8+4 cortante). Regeneração 20 PV/turno salvo luz solar ou água benta. Imune a dano não-mágico. Resistência de charme com desvantagem para Strahd — os aventureiros podem ousar fitá-lo nos olhos."
+  },
+  {
+    "name": "Lobisomem",
+    "type": "Metamorfo",
+    "rarity": "CR 3",
+    "source": "MM p.211",
+    "description": "Comum nas florestas de Barovia. Forma híbrida: CA 11, 84 PV. Imune a bludgeoning/piercing/slashing não-mágico de armas não-prateadas. Mordida transmite licantropia (CD 15 Con). Odeiam prata — um simples dardo de prata causa dano total."
+  },
+  {
+    "name": "Zumbi Barovaniano",
+    "type": "Morto-Vivo",
+    "rarity": "CR 1/4",
+    "source": "Curse of Strahd / MM p.316",
+    "description": "Aldeões e soldados mortos reanimados pela vontade de Strahd. CA 8, 22 PV. Golpe de Soco +3 (1d6+1). Tenacidade Não-Morta: se chegarem a 0 PV, rolam CD 5 Con para cair a 1 PV em vez de morrer. Lentos, previsíveis, mas assustadores em grandes números nas ruas de Barovia."
+  },
+  {
+    "name": "Bruxa Noite",
+    "type": "Morto-Vivo",
+    "rarity": "CR 3",
+    "source": "Curse of Strahd p.228",
+    "description": "Serventes de Baba Lysaga e Strahd. Voam em vassouras encantadas e lançam magias. CA 12, 45 PV. Voo 50ft. Conjuram Raio, Sono e Estupefação. Três bruxa noites formam aquilarre, ganhando acesso a magias de 5º nível. Encontradas no pântano e nas aldeias cercadas."
+  },
+  {
+    "name": "Wight",
+    "type": "Morto-Vivo",
+    "rarity": "CR 3",
+    "source": "MM p.300",
+    "description": "Antigos guerreiros ou nobres corrompidos. CA 14, 45 PV. Dreno de Vida: +4 (1d6+2 necrótico, reduz PV máximo). Imune a veneno/exaustão. Resistente a necrótico e danos não-mágicos. Humanos mortos por wights ressurgem como zumbis sob seu controle. Frequentes nos cemitérios de Barovia."
+  }
+]

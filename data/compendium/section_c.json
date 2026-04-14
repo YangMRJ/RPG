@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sunsword (Espada Solar)",
+    "type": "Arma Mágica — Espada Longa",
+    "rarity": "Lendário (requer sintonia)",
+    "source": "Curse of Strahd p.223",
+    "description": "Lâmina de luz pura. +2 em ataques e dano. Causa 1d8 extra de dano radiante. Contra mortos-vivos e mortos-vivos: +1d8 radiante adicional. Emite luz brilhante em 15ft e penumbra em 15ft além (desligável). Vampiros dentro da luz sofrem desvantagem em ataques. Destruída em partes — a lâmina separada do cabo precisa ser reunida."
+  },
+  {
+    "name": "Símbolo Sagrado de Ravenkind",
+    "type": "Item Maravilhoso",
+    "rarity": "Lendário (requer sintonia — clérigo, paladino ou druida)",
+    "source": "Curse of Strahd p.222",
+    "description": "Crucifixo de prata e âmbar com três poderes (recarga ao amanhecer): Segurar Morto-Vivo (raio 30ft, CD 15 Sab), Luz Solar (luz brilhante 30ft por 1 minuto) e Repelir Vampiros (Strahd recua por 1 minuto, CD 15 Car). Um dos três itens capazes de derrotar Strahd permanentemente."
+  },
+  {
+    "name": "Tomo de Strahd",
+    "type": "Item de Informação",
+    "rarity": "Único",
+    "source": "Curse of Strahd p.221",
+    "description": "Diário escrito pelo próprio Strahd ao longo de séculos. Revela sua história, a maldição do Cavaleiro Sombrio, sua obsessão por Tatyana e o pacto que o tornou vampiro. Lê-lo concede profundo entendimento da psicologia e fraquezas de Strahd. Sem ele os aventureiros atacam às cegas; com ele compreendem o que o prende a Barovia."
+  },
+  {
+    "name": "Água Benta",
+    "type": "Item de Aventura",
+    "rarity": "Comum",
+    "source": "PHB p.151",
+    "description": "Frasco (500ml). Como ação, jogar no alvo: ataque à distância +atributo vs CA. Acerto: 2d6 radiante a mortos-vivos e demônios. Vampiros sofrem desvantagem em ataques por 1 turno. Pode ser adquirida em qualquer templo ativo em Barovia — a Igreja de São Andral (quando consagrada) e o Convento de Santa Markovia."
+  },
+  {
+    "name": "Prata (Arma Revestida)",
+    "type": "Modificação de Arma",
+    "rarity": "Incomum",
+    "source": "DMG p.148",
+    "description": "Custo: 100 po por arma. Armas revestidas de prata superam as imunidades de lobisomens, demônios e certos mortos-vivos. Em Barovia, o ferreiro Hendrik Wagner em Vallaki pode realizar o serviço. Espadas, facas e munições podem ser prateadas. O revestimento dura até ser danificado por impacto severo."
+  }
+]

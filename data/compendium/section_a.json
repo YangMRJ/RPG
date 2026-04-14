@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Conde Strahd von Zarovich",
+    "type": "NPC — Vilão Principal",
+    "rarity": "Único",
+    "source": "Curse of Strahd p.239",
+    "description": "O eterno senhor de Barovia. Vampiro de poder incomparável, preso por uma maldição ancestral na terra que governa. Strahd é inteligente, calculista e solitário — sua obsessão por Tatyana atravessa séculos e encarnações. Não ataca sem propósito; prefere manipular os aventureiros como peças em seu tabuleiro particular."
+  },
+  {
+    "name": "Ireena Kolyana",
+    "type": "NPC — Aliada",
+    "rarity": "Único",
+    "source": "Curse of Strahd p.49",
+    "description": "Filha adotiva do burgomestre Kolyan Indirovich em Barovia. Sua aparência é idêntica à de Tatyana, o amor perdido de Strahd. Corajosa e determinada, recusa-se a ser apenas um prêmio. Pode tornar-se uma importante aliada se os aventureiros ganharem sua confiança."
+  },
+  {
+    "name": "Ismark Kolyanovich",
+    "type": "NPC — Aliado",
+    "rarity": "Comum",
+    "source": "Curse of Strahd p.43",
+    "description": "Irmão de Ireena, apelidado de 'o Menor' pelos moradores por não estar à altura da reputação do pai. Na prática é um guerreiro competente e honrado que protege sua irmã com devoção. Pode guiar os aventureiros até o cemitério e à Igreja de São Andral."
+  },
+  {
+    "name": "Vistani de Tser Pool",
+    "type": "NPC — Grupo",
+    "rarity": "Comum",
+    "source": "Curse of Strahd p.36",
+    "description": "Acampamento de Vistani às margens do lago Tser Pool. Madame Eva, a anciã vidente, reside aqui e pode realizar a Leitura de Tarô que revela os locais dos artefatos cruciais da campanha. Os Vistani têm um relacionamento ambíguo com Strahd — servem a ele, mas mantêm sua própria agenda."
+  },
+  {
+    "name": "Madame Eva",
+    "type": "NPC — Oráculo",
+    "rarity": "Único",
+    "source": "Curse of Strahd p.37",
+    "description": "A mais antiga e sábia das Vistani. De aparência frágil, esconde poder imenso. Realiza a Leitura das Cartas de Tarô, determinando onde estão o Tomo de Strahd, o Símbolo Sagrado de Ravenkind, Sunsword e quem pode ser o aliado dos aventureiros. Sua neutralidade é absoluta — não toma partido, apenas vê."
+  }
+]
